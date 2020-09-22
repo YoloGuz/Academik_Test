@@ -1,0 +1,6 @@
+com\mycompany\academik_test_1\IndexController\IndexController.class
+com\mycompany\academik_test_1\WebConfig.class
+com\mycompany\academik_test_1\Service\ClienteService.class
+com\mycompany\academik_test_1\ClienteControllador\ClienteController.class
+com\mycompany\academik_test_1\MainWebAppInitializer.class
+com\mycompany\academik_test_1\Model\Cliente.class
